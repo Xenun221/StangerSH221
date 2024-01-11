@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-nunes-4a269b203/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StrangerSH221&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github.com/Xenun221)
 
 
 ## Tecnologias que eu uso no meu dia
