@@ -15,7 +15,7 @@
 
 ### Social Media:
 <div align="left"> 
-<a href="www.linkedin.com/in/gabriel-nunes-4a269b203" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.linkedin.com/in//gabriel-nunes-4a269b203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
  ### Main skills:
